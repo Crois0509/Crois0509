@@ -13,7 +13,7 @@
 
 ##
 
-![Crois GitHub stats](https://github-readme-stats.vercel.app/api?username=Crois&show_icons=true&theme=radical)
+![Crois GitHub stats](https://github-readme-stats.vercel.app/api?username=crois0509&show_icons=true&theme=radical)
 
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=crois0509)
 
